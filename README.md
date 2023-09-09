@@ -1,6 +1,8 @@
 # Generation of training data for analysis and model creation
 
-[link to data presented in tables and graphs](http://htmlpreview.github.io/?https://github.com/edlay17/data-generation-and-analysis/blob/main/sheep_breed_efficiency.html)
+[complete data set](sheep-efficiency_clean.csv)
+
+[data set where some values are empty](sheep-efficiency_na.csv) (to try to generate)
 
 ## Data description
 
